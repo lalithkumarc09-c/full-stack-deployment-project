@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Redirecting to NovaCommerce...</title>
+  <script>
+    // SPA Static Host Fallback Redirector
+    // Preserves deep-links by redirecting full path requests into hash routes
+    (function() {
+      var path = window.location.pathname;
+      var search = window.location.search;
+      var hash = window.location.hash;
+      
+      // If we are at root or already have a hash, redirect to index
+      if (path === '/' || path.endsWith('/index.html')) {
+        window.location.replace('/' + (hash || '#/'));
+        return;
+      }
+      
+      // Convert /products -> /#/products
+      var cleanPath = path.replace(/^\//, '');
+      var target = '/#/' + cleanPath + (search || '') + (hash ? hash.replace(/^#\/?/, '') : '');
+      window.location.replace(target);
+    })();
+  </script>
+</head>
+<body style="font-family: sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; background: #f8fafc; color: #0f172a; text-align: center;">
+  <div>
+    <h2>Redirecting to NovaCommerce...</h2>
+    <p>If you are not redirected automatically within 3 seconds, <a href="/#/">click here to return home</a>.</p>
+  </div>
+</body>
+</html>

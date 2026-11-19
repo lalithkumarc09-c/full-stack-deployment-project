@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+  <!-- Primary Meta Tags -->
+  <title>NovaCommerce | Modern Modular E-Commerce Platform</title>
+  <meta name="title" content="NovaCommerce | Modern Modular E-Commerce Platform" />
+  <meta name="description" content="A comprehensive full-stack capstone project featuring modular frontend architecture, client-side routing, asset optimization, and live cloud deployment." />
+  <meta name="author" content="Lalith Kumar" />
+  <meta name="theme-color" content="#2563eb" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://novacommerce.example.com/" />
+  <meta property="og:title" content="NovaCommerce | Modern Modular E-Commerce Platform" />
+  <meta property="og:description" content="Modular frontend application with client-side routing, reactive state, and cloud deployment." />
+  <meta property="og:image" content="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:title" content="NovaCommerce | Modern Modular E-Commerce Platform" />
+  <meta property="twitter:description" content="Modular frontend application with client-side routing, reactive state, and cloud deployment." />
+  <meta property="twitter:image" content="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80" />
+
+  <!-- Preconnect and Asset Optimization Hints -->
+  <link rel="preconnect" href="https://images.unsplash.com" crossorigin />
+  <link rel="dns-prefetch" href="https://images.unsplash.com" />
+
+  <!-- Favicon SVG -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%232563eb'><polygon points='12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2'/></svg>" />
+
+  <!-- Stylesheet (Production Minified) -->
+  <link rel="stylesheet" href="assets/css/main.min.css" />
+</head>
+<body>
+  <!-- Semantic Mount Points for Modular Architecture -->
+  <div id="navbar-mount"></div>
+
+  <!-- Dynamic View Mount Container -->
+  <main id="main-content" role="main" tabindex="-1">
+    <div class="container view-loading">
+      <div class="spinner"></div>
+      <p>Initializing NovaCommerce...</p>
+    </div>
+  </main>
+
+  <div id="footer-mount"></div>
+
+  <!-- Global Toast Notification Container -->
+  <div id="toast-container" class="toast-container" aria-live="polite" aria-atomic="true"></div>
+
+  <!-- Noscript Fallback -->
+  <noscript>
+    <div style="padding: 2rem; text-align: center; background: #fee2e2; color: #dc2626; font-family: sans-serif;">
+      <h2>JavaScript Required</h2>
+      <p>NovaCommerce is a modern Single Page Application (SPA). Please enable JavaScript in your browser to experience seamless client-side routing and interactive shopping.</p>
+    </div>
+  </noscript>
+
+  <!-- ES6+ Module Application Bootstrapper -->
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,350 @@
+[
+  {
+    "id": 1,
+    "title": "Aura Pro Wireless ANC Headphones",
+    "category": "Electronics",
+    "price": 279.99,
+    "originalPrice": 349.99,
+    "discount": 20,
+    "rating": 4.8,
+    "reviewsCount": 142,
+    "inStock": true,
+    "stockCount": 24,
+    "isFeatured": true,
+    "isTrending": true,
+    "badge": "Top Rated",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Engineered with studio-grade 45mm neodymium drivers and next-generation hybrid Active Noise Cancellation. Delivers up to 40 hours of continuous high-fidelity playback with rapid USB-C fast charging.",
+    "specs": {
+      "Driver Size": "45mm Neodymium",
+      "Battery Life": "40 Hours (ANC On)",
+      "Connectivity": "Bluetooth 5.3 & 3.5mm Aux",
+      "Weight": "250g",
+      "Warranty": "2 Years International"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Minimalist Chrono Sapphire Watch",
+    "category": "Accessories",
+    "price": 189.00,
+    "originalPrice": 229.00,
+    "discount": 17,
+    "rating": 4.7,
+    "reviewsCount": 89,
+    "inStock": true,
+    "stockCount": 18,
+    "isFeatured": true,
+    "isTrending": false,
+    "badge": "Bestseller",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Sleek Scandinavian design crafted from 316L aerospace-grade surgical stainless steel, scratch-resistant sapphire crystal glass, and Italian vegetable-tanned genuine leather strap.",
+    "specs": {
+      "Case Diameter": "40mm",
+      "Movement": "Japanese Quartz Miyota",
+      "Water Resistance": "5 ATM (50m)",
+      "Strap Material": "Genuine Italian Leather",
+      "Warranty": "3 Years"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Ergonomic Mechanical Keyboard RGB",
+    "category": "Electronics",
+    "price": 129.50,
+    "originalPrice": 159.00,
+    "discount": 18,
+    "rating": 4.9,
+    "reviewsCount": 215,
+    "inStock": true,
+    "stockCount": 35,
+    "isFeatured": true,
+    "isTrending": true,
+    "badge": "Staff Pick",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Hot-swappable tactile mechanical keyboard featuring gasket-mounted acoustic dampening foams, south-facing per-key RGB backlighting, and programmable QMK/VIA firmware.",
+    "specs": {
+      "Layout": "75% Compact (84 Keys)",
+      "Switch Type": "Gateron Pro Yellow (Pre-lubed)",
+      "Keycaps": "Double-Shot PBT Cherry Profile",
+      "Connectivity": "Tri-Mode (BT 5.1 / 2.4G / Type-C)",
+      "Battery": "4000mAh"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Nomad Waterproof Travel Backpack 30L",
+    "category": "Accessories",
+    "price": 115.00,
+    "originalPrice": 140.00,
+    "discount": 17,
+    "rating": 4.6,
+    "reviewsCount": 76,
+    "inStock": true,
+    "stockCount": 12,
+    "isFeatured": false,
+    "isTrending": true,
+    "badge": "Popular",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1577733966973-d680bffd2e80?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Constructed with weatherproof 840D Cordura ballistic nylon. Features a dedicated 16-inch padded laptop sleeve, RFID-blocking passport slot, and TSA-approved 180-degree flat opening.",
+    "specs": {
+      "Capacity": "30 Liters",
+      "Material": "840D Cordura Ballistic Nylon",
+      "Laptop Fit": "Up to 16.2 inch MacBook Pro",
+      "Weight": "1.1 kg",
+      "Zippers": "YKK AquaGuard Weatherproof"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Artisan Ceramic Pour-Over Kettle",
+    "category": "Home & Living",
+    "price": 84.00,
+    "originalPrice": 105.00,
+    "discount": 20,
+    "rating": 4.9,
+    "reviewsCount": 63,
+    "inStock": true,
+    "stockCount": 9,
+    "isFeatured": true,
+    "isTrending": false,
+    "badge": "Artisan",
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Precision gooseneck spout for controlled pour rate and barista-level extraction. Finished in matte stone ceramic with an ergonomic balanced walnut wood handle and built-in analog thermometer.",
+    "specs": {
+      "Capacity": "900ml",
+      "Material": "Double-wall Ceramic & Stainless Steel",
+      "Handle": "Natural Walnut Wood",
+      "Stovetop Safe": "Induction, Gas, Electric",
+      "Origin": "Kyoto, Japan"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Ultra-light Performance Running Sneakers",
+    "category": "Fashion",
+    "price": 145.00,
+    "originalPrice": 175.00,
+    "discount": 17,
+    "rating": 4.7,
+    "reviewsCount": 184,
+    "inStock": true,
+    "stockCount": 40,
+    "isFeatured": true,
+    "isTrending": true,
+    "badge": "Hot Deal",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Responsive carbon fiber plate embedded in dual-density supercritical nitrogen-infused foam. Delivers supreme energy return, featherlight cushion, and adaptive breathability.",
+    "specs": {
+      "Weight": "198g (Size US 9)",
+      "Drop": "8mm",
+      "Midsole": "Supercritical Nitrogen Foam",
+      "Upper": "Engineered Recycled FlyKnit Mesh",
+      "Outsole": "Continental Grip Rubber"
+    }
+  },
+  {
+    "id": 7,
+    "title": "AeroGlass Polarized Aviator Sunglasses",
+    "category": "Fashion",
+    "price": 95.00,
+    "originalPrice": 120.00,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewsCount": 51,
+    "inStock": true,
+    "stockCount": 16,
+    "isFeatured": false,
+    "isTrending": false,
+    "badge": "Classic",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Handcrafted titanium frame with UV400 anti-reflective polarized lenses. Filters 99.9% of glare while offering true color reproduction and shatterproof durability.",
+    "specs": {
+      "Frame": "Ultralight Beta Titanium",
+      "Lens": "Tri-Acetate Cellulose (TAC) Polarized",
+      "UV Protection": "100% UV400 (UVA & UVB)",
+      "Hinges": "Monoblock Spring-Loaded",
+      "Includes": "Hard Leather Case & Microfiber Cloth"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Smart Ambient Lumina Desk Lamp",
+    "category": "Home & Living",
+    "price": 79.99,
+    "originalPrice": 99.99,
+    "discount": 20,
+    "rating": 4.8,
+    "reviewsCount": 97,
+    "inStock": true,
+    "stockCount": 22,
+    "isFeatured": false,
+    "isTrending": true,
+    "badge": "Smart Tech",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1534349762230-e0cadf78f5da?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Full-spectrum flicker-free LED lamp with stepless dimming, 2700K to 6500K dynamic color temperature, wireless Qi charging base, and ambient auto-light sensor.",
+    "specs": {
+      "Brightness": "1000 Lumens (CRI > 95)",
+      "Color Temperature": "2700K - 6500K Stepless",
+      "Wireless Charger": "15W Fast Qi Pad",
+      "Power": "USB-C PD 30W",
+      "Smart Controls": "Touch Slider & App Compatible"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Wireless Studio Noise-Isolating Earbuds",
+    "category": "Electronics",
+    "price": 149.00,
+    "originalPrice": 189.00,
+    "discount": 21,
+    "rating": 4.6,
+    "reviewsCount": 112,
+    "inStock": true,
+    "stockCount": 27,
+    "isFeatured": true,
+    "isTrending": false,
+    "badge": "Wireless",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Hi-Res Audio Wireless certified earbuds powered by LDAC codec and dual-balanced armature drivers. Features transparent pass-through mode and IPX5 water resistance.",
+    "specs": {
+      "Codecs Supported": "LDAC, AAC, SBC",
+      "Battery Life": "8 hrs (Earbuds) + 24 hrs (Case)",
+      "Water Resistance": "IPX5 Sweatproof",
+      "Microphones": "6-mic AI Beamforming Array",
+      "Charging": "Qi Wireless + Fast USB-C"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Heritage Waxed Canvas Duffel Bag",
+    "category": "Accessories",
+    "price": 165.00,
+    "originalPrice": 210.00,
+    "discount": 21,
+    "rating": 4.9,
+    "reviewsCount": 48,
+    "inStock": true,
+    "stockCount": 8,
+    "isFeatured": false,
+    "isTrending": false,
+    "badge": "Handmade",
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Rugged 18oz Scottish waxed cotton canvas paired with full-grain bridle leather handles and antique brass hardware. Ages gracefully with a unique bespoke patina.",
+    "specs": {
+      "Dimensions": "52cm x 30cm x 28cm (42L)",
+      "Material": "18oz Heavy Waxed Duck Canvas",
+      "Hardware": "Solid Cast Antiqued Brass",
+      "Shoe Compartment": "Separate Ventilated Pocket",
+      "Warranty": "Lifetime Craftsmanship Guarantee"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Ultra-HD 4K Action Camera 60FPS",
+    "category": "Electronics",
+    "price": 239.99,
+    "originalPrice": 299.99,
+    "discount": 20,
+    "rating": 4.7,
+    "reviewsCount": 139,
+    "inStock": true,
+    "stockCount": 14,
+    "isFeatured": false,
+    "isTrending": true,
+    "badge": "4K Ultra",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Capture razor-sharp 4K footage at 60fps with 6-axis electronic image stabilization. Waterproof up to 20 meters without housing, dual touchscreens, and voice activation.",
+    "specs": {
+      "Video Resolution": "4K at 60fps / 1080p at 240fps",
+      "Sensor": "1/2-inch CMOS 20 Megapixels",
+      "Waterproof Depth": "20m Bare Metal",
+      "Stabilization": "HyperSmooth EIS 4.0",
+      "Battery": "Dual 1720mAh packs included"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Cast Iron Dutch Oven 5.5 Quart",
+    "category": "Home & Living",
+    "price": 119.00,
+    "originalPrice": 149.00,
+    "discount": 20,
+    "rating": 4.9,
+    "reviewsCount": 165,
+    "inStock": true,
+    "stockCount": 11,
+    "isFeatured": false,
+    "isTrending": false,
+    "badge": "Chef Choice",
+    "image": "https://images.unsplash.com/photo-1584990347449-3993e50696e2?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584990347449-3993e50696e2?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Vibrant enameled heavy cast iron for superior heat distribution and slow braising. Self-basting lid condensation bumps ensure incredibly moist roasts and crusty sourdoughs.",
+    "specs": {
+      "Capacity": "5.5 Quarts (5.2 Liters)",
+      "Material": "Triple-Enameled Cast Iron",
+      "Oven Safe": "Up to 500°F (260°C)",
+      "Coating": "Non-toxic Lead & Cadmium Free",
+      "Compatibility": "Gas, Induction, Ceramic, Electric"
+    }
+  }
+]
